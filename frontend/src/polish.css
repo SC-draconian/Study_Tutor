@@ -1,0 +1,4 @@
+.trust-badge{height:25px;width:25px;display:grid;place-items:center;border-radius:50%;background:#e7f1d9;color:#789451;flex:none}.flashcard-source{font-size:7px;color:#87966d;text-align:center}.choices button:disabled{cursor:default}.choices button.incorrect{border-color:#e7c9bb;background:#fbf2ed;color:#9a6955}.choices button.incorrect>span{background:#f4e0d6;color:#a36c51}.quiz-answer.right{background:#f2f7eb;color:#718f47}.quiz-answer.wrong{background:#fbf2ed;color:#a17058}
+@media(max-width:850px){.hero-visual{transform:scale(.7)}}
+@media(max-width:600px){.hero-visual{transform:none}}
+@media(prefers-reduced-motion:reduce){.landing-hero h1,.pulse-dot,.floating-chip,.star-a,.closing-spark{animation:none!important}.landing-page{scroll-behavior:auto}}
